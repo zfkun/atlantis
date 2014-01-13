@@ -1,0 +1,25 @@
+{
+  "name": "Atlantis",
+  "version": "0.1.0",
+  "description": "Atlantis",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zfkun/atlantis.git"
+  },
+  "keywords": [
+    "atlantis",
+    "atlas",
+    "island",
+    "lost"
+  ],
+  "author": "zfkun",
+  "maintainers": [
+      { "name": "zfkun", "email": "zfkun@msn.com" }
+  ],
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/zfkun/atlantis/issues"
+  },
+  "homepage": "https://github.com/zfkun/atlantis"
+}
